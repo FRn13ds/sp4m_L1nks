@@ -1,4 +1,4 @@
-# Sp-m_l-nx
+# Spam_LINKs
 This is tool created to spam link visiting for free
 
 ++ if you get some errors you can contact me on the link below ++
