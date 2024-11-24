@@ -29,7 +29,7 @@ pip install requests colorama
 
 python script.py
 
-###Kali Linux
+### Kali Linux
 
 bash
 
