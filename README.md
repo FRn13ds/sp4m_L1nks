@@ -25,7 +25,9 @@ pip install requests colorama
 
 python script.py
 
-*Kali Linux*bash
+*Kali Linux*
+
+bash
 
 sudo apt-get install python3
 
