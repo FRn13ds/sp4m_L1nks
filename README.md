@@ -22,8 +22,9 @@ pkg install python
 
 pkg install git
 
-git clone https://github.com/FRn13ds/Sp-m_l-nx.git
-cd Sp-m_l-nx
+git clone https://github.com/FRn13ds/sp4m_L1nks6.git
+
+cd sp4m_L1nks6
 
 pip install requests colorama
 
@@ -37,9 +38,11 @@ sudo apt-get install python3
 
 sudo apt-get install git
 
-git clone https://github.com/FRn13ds/Sp-m_l-nx.git
 
-cd Sp-m_l-nx
+git clone https://github.com/FRn13ds/sp4m_L1nks6.git
+
+
+cd sp4m_L1nks6
 
 pip3 install requests colorama
 
