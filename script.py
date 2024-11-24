@@ -1,6 +1,7 @@
 import time
 import requests
 from colorama import *
+init()
 header = "Tool Created By : 4nnonymous "
 row1 = "Contact  : alexandre.privatechat@gmail.com "
 row2 = "About Tool  : Save All of Your Accounts "
