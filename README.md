@@ -1,9 +1,14 @@
 # Sp-m_l-nx
 This is tool created to spam link visiting for free
+
 ++ if you get some errors you can contact me on the link below ++
+
 ++ please share my tool to your teams / friends / to use it ++
+
 ++ i will add new tool in the next month ++
+
 ++++ Thank You ! +++
+
 
 # Python Spam Script
 
@@ -19,7 +24,7 @@ pkg install git
 
 git clone https://github.com/Ysynxx/Sp-m_l-nx.git
 
-cd repo-name
+cd Sp-m_l-nx
 
 pip install requests colorama
 
@@ -35,7 +40,7 @@ sudo apt-get install git
 
 git clone https://github.com/Ysynxx/Sp-m_l-nx.git
 
-cd repo-name
+cd Sp-m_l-nx
 
 pip3 install requests colorama
 
