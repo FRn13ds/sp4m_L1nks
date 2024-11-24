@@ -29,7 +29,7 @@ pip install requests colorama
 
 python script.py
 
-*Kali Linux*
+###Kali Linux
 
 bash
 
@@ -45,3 +45,6 @@ pip3 install requests colorama
 
 python3 script.py
 
+## Usage 
+1 _ paste the LINK you want to spam
+2 _ Choose how many time you want to visite it 
