@@ -1,4 +1,4 @@
-# Spam_LINKs V0..1
+# Spam_LINKs V0.2
 This is tool created to spam link visiting for free
 
 ++ if you get some errors you can contact me on the link below ++
@@ -22,9 +22,9 @@ pkg install python
 
 pkg install git
 
-git clone https://github.com/FRn13ds/sp4m_L1nks6.git
+git clone https://github.com/FRn13ds/sp4m_L1nks.git
 
-cd sp4m_L1nks6
+cd sp4m_L1nks
 
 pip install requests colorama
 
@@ -39,10 +39,10 @@ sudo apt-get install python3
 sudo apt-get install git
 
 
-git clone https://github.com/FRn13ds/sp4m_L1nks6.git
+git clone https://github.com/FRn13ds/sp4m_L1nks.git
 
 
-cd sp4m_L1nks6
+cd sp4m_L1nks
 
 pip3 install requests colorama
 
