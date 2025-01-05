@@ -1,4 +1,4 @@
-# Spam_LINKs
+# Spam_LINKs V0..1
 This is tool created to spam link visiting for free
 
 ++ if you get some errors you can contact me on the link below ++
@@ -48,6 +48,8 @@ pip3 install requests colorama
 
 python3 script.py
 
+
+###WORKING ON UPDATES 
 ## Usage 
 1 _ paste the LINK you want to spam
 2 _ Choose how many time you want to visite it 
